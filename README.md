@@ -6,9 +6,13 @@ Developed an AI-powered cardiovascular disease prediction system using clinical 
 
 ### Features
 -Clinical data preprocessing
+
 -Feature engineering
+
 -Disease risk prediction
+
 -SHAP explainability
+
 -Interactive dashboard
 
 ### Pipeline 
